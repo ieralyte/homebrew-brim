@@ -1,7 +1,7 @@
 cask "brim" do
   # version and sha256 are updated automatically by Brim's release workflow.
-  version "1.0.0"
-  sha256 "fdcbcd04edd9398feb498ad6e62ac74cfae451112440118f1e630208631a9f0c"
+  version "1.1.0"
+  sha256 "8b6c3360ae32003a5662d72012186ff37f23c0da87a35ca342e704ea504a46a7"
 
   url "https://github.com/ieralyte/brim/releases/download/v#{version}/Brim-#{version}.dmg"
   name "Brim"
